@@ -1,5 +1,5 @@
 👋 About Me
-<code style="color : darkorange"> OS: 
+<code style="color : name_color">OS:</code> 
 
 💡 What I Do
 Engineer and integrate new features into front-end and back-end applications, leveraging AWS services.
@@ -14,3 +14,8 @@ JavaScript | Java | Kotlin | Python | C | C++ | MySQL | React.js | Node.js | Git
 
 📫 Let’s Connect
 Feel free to reach out for collaboration or to discuss exciting software projects!
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
