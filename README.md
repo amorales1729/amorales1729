@@ -8,7 +8,7 @@ OS: Windows 11, macOS 15 Sequoia, iOS 18
 
 IDE: IntelliJ IDEA - JetBrains, VSCode 1.86
 
-
+____________________________________________________________________________________________________
  
 ⚡ Tech Stack
 
