@@ -1,7 +1,11 @@
-# Example README
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
 
-This is **Markdown** text.
+# Color Test Document
 
-<span style="color:blue">This text is blue.</span>
+## Second Heading
 
-<span style="color:red">This text is red.</span>
+This is a test to see how the colors work.
