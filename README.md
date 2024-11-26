@@ -1,22 +1,7 @@
-👋 About Me
+# Example README
 
-$${\color{orange}OS:}$$
+This is **Markdown** text.
 
-💡 What I Do
-Engineer and integrate new features into front-end and back-end applications, leveraging AWS services.
-Automate testing processes to enhance software reliability and reduce manual efforts.
-Design and maintain robust full-stack architectures with technologies like Elixir, JavaScript, MySQL, and REST APIs.
+<span style="color:blue">This text is blue.</span>
 
-🎯 What Drives Me
-I thrive in collaborative environments, enjoy solving complex technical challenges, and am passionate about delivering impactful results through innovative software solutions.
-
-⚡ Tech Stack
-JavaScript | Java | Kotlin | Python | C | C++ | MySQL | React.js | Node.js | Git/GitHub | CircleCI | RESTful APIs
-
-📫 Let’s Connect
-Feel free to reach out for collaboration or to discuss exciting software projects!
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+<span style="color:red">This text is red.</span>
