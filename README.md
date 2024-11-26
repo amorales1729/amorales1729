@@ -6,6 +6,7 @@ Kernel: Computer Science BS - Clemson University
 IDE: IntelliJ IDEA - JetBrains, VSCode 1.86
 
 ⚡ Tech Stack
+
 Languages.Programming: [Java, Kotlin, C/C++, JavaScript, Python]
 
 
