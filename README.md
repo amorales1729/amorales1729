@@ -8,11 +8,11 @@ OS: Windows 11, macOS 15 Sequoia, iOS 18
 
 IDE: IntelliJ IDEA - JetBrains, VSCode 1.86
 
-____________________________________________________________________________________________________
  
 ⚡ Tech Stack
 
-Languages.Programming: [Java, Kotlin, C/C++, JavaScript, Python]
+Languages.Programming: [Java, Kotlin, C/C++, JavaScript, Python, MySQL]
 
+Languages.Computing: [HTML, CSS, JSON, XML, YAML, React, Node, Espresso, Git]
 
-Python | C | C++ | React.js | Node.js | MySQL | Git/GitHub | CircleCI | RESTful APIs | Agile | Scrum
+Languages.Frameworks: [React, Node, Espresso]
