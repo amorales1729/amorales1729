@@ -16,4 +16,3 @@ Languages.Programming: [Java, Kotlin, C/C++, JavaScript, Python, MySQL]
 Languages.Computing: [HTML, CSS, JSON, XML, YAML, React, Node, Espresso, Git]
 
 Languages.Frameworks: [React, Node, Espresso]
-This is <u>underlined text</u>.
