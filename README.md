@@ -1,5 +1,5 @@
 👋 About Me
-<code style="color : name_color">OS:</code> 
+<code style="color : blue">OS:</code> 
 
 💡 What I Do
 Engineer and integrate new features into front-end and back-end applications, leveraging AWS services.
