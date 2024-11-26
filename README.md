@@ -1,16 +1,16 @@
-### Hi there 👋
+👋 About Me
+<code style="color : darkorange"> OS: 
 
-<!--
-**amorales1729/amorales1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 What I Do
+Engineer and integrate new features into front-end and back-end applications, leveraging AWS services.
+Automate testing processes to enhance software reliability and reduce manual efforts.
+Design and maintain robust full-stack architectures with technologies like Elixir, JavaScript, MySQL, and REST APIs.
 
-Here are some ideas to get you started:
+🎯 What Drives Me
+I thrive in collaborative environments, enjoy solving complex technical challenges, and am passionate about delivering impactful results through innovative software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Tech Stack
+JavaScript | Java | Kotlin | Python | C | C++ | MySQL | React.js | Node.js | Git/GitHub | CircleCI | RESTful APIs
+
+📫 Let’s Connect
+Feel free to reach out for collaboration or to discuss exciting software projects!
